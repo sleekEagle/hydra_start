@@ -1,0 +1,9 @@
+cube1:
+  width: 0.9
+  height: 0.1
+  length: 0.8
+cube2:
+  width: 0.1
+  height: 0.4
+  length: 0.2
+plot: True
